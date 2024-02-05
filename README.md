@@ -22,3 +22,5 @@ Here again to do another pull request!!! So far so good! I am learning to do thi
 # Today is Monday, Feb 5, 
 
 I am practicing again to see if I can do this by memory!!!  I did this already in the spanish Hello-World repo so I should be fine doing this one by memory!
+
+Yup, yup, I got this! second try on monday and I feel great!
