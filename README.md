@@ -17,3 +17,8 @@ I also got the Pull Shark award for trying this new exercise!!!
 Here we go, fourth time!!! I am super excited!! i am trying to do this branch, pull request and commit from memory so wish me luck!!!
 
 Here again to do another pull request!!! So far so good! I am learning to do this from memory, occasionally checking the directions but overall doing good!
+
+
+# Today is Monday, Feb 5, 
+
+I am practicing again to see if I can do this by memory!!!  I did this already in the spanish Hello-World repo so I should be fine doing this one by memory!
