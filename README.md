@@ -19,8 +19,12 @@ Here we go, fourth time!!! I am super excited!! i am trying to do this branch, p
 Here again to do another pull request!!! So far so good! I am learning to do this from memory, occasionally checking the directions but overall doing good!
 
 
-# Today is Monday, Feb 5, 
+# Monday, Feb 5, 
 
 I am practicing again to see if I can do this by memory!!!  I did this already in the spanish Hello-World repo so I should be fine doing this one by memory!
 
 Yup, yup, I got this! second try on monday and I feel great!
+
+# Wedneday, Feb 7
+
+Another day of practice. I've been able to do branches, pull requests and commits from memory so lets try again!
