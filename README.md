@@ -28,3 +28,7 @@ Yup, yup, I got this! second try on monday and I feel great!
 # Wedneday, Feb 7
 
 Another day of practice. I've been able to do branches, pull requests and commits from memory so lets try again!
+
+# Friday, Feb 9
+
+Practicing again from memory! Lets gooO!!
