@@ -32,3 +32,7 @@ Another day of practice. I've been able to do branches, pull requests and commit
 # Friday, Feb 9
 
 Practicing again from memory! Lets gooO!!
+
+# Tuesday Feb 13
+
+Checking to see if I have the process ready to go in my head of if I have to check the directions
